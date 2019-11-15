@@ -1,2 +1,2 @@
- # <h2> My name is  Jarek 
- # <h6> Replace this with your name, and include a header.
+ #  My name is <h2> Jarek 
+ #######  Replace <h6> this with your name, and include a header.
