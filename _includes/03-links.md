@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Link nr 1](https://github.com/jarek1000/markdown-portfolio)
